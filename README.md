@@ -86,4 +86,4 @@ My university dissertation. It's a web app that encourages sustainable travel by
 
 ---
 
-Open to full-stack and backend roles in London or remote. Email me at [ardadogan3334@gmail.com](mailto:ardadogan3334@gmail.com).
+Open to full-stack and backend roles in London. Email me at [ardadogan3334@gmail.com](mailto:ardadogan3334@gmail.com).
